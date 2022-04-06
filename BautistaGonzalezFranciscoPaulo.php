@@ -1,1 +1,7 @@
-
+<?php include ("header.php"); ?>
+    <body>
+        <head>
+            <h1 class="center" >BAUTISTA GONZALEZ FRANCISCO PAULO</h1>
+        </head>
+    </body>
+</html>
